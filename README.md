@@ -1,3 +1,6 @@
+# 📡 Networking Repository
+
+```
 Networking/
 │
 ├── Fundamentals/
@@ -5,7 +8,7 @@ Networking/
 │   ├── IP-Address/
 │   ├── DHCP/
 │   ├── MAC-Address/
-│   ├── ARP/
+│   └── ARP/
 │
 ├── OSI-Model/
 │
@@ -29,9 +32,17 @@ Networking/
 │   ├── POP3/
 │   └── IMAP/
 │
-├── Network-Services/
-   ├── Routing/
-   ├── NAT/
-   ├── Traceroute/
-   └── WHOIS/
+└── Network-Services/
+    ├── Routing/
+    ├── NAT/
+    ├── Traceroute/
+    └── WHOIS/
+```
 
+## Contents
+
+- **Fundamentals** - Core networking concepts and addressing.
+- **OSI Model** - Seven-layer networking model.
+- **TCP/IP** - TCP/IP architecture, encapsulation, ports, TCP, UDP, and connection lifecycle.
+- **Network Protocols** - Common protocols used for communication across networks.
+- **Network Services** - Supporting technologies and utilities such as Routing, NAT, Traceroute, and WHOIS.
