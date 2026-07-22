@@ -1,6 +1,3 @@
-# 📡 Networking Repository
-
-```
 Networking/
 │
 ├── Fundamentals/
@@ -22,27 +19,41 @@ Networking/
 │   └── 07-UDP.md
 │
 ├── Network-Protocols/
+│   ├── Networking-Protocols.md
 │   ├── DNS/
 │   ├── ICMP/
 │   ├── HTTP/
-│   ├── HTTPS-TLS/
+│   └── HTTPS-TLS/
+│
+├── Protocol-Practice/
 │   ├── FTP/
+│   │   ├── README.md
+│   │   └── Commands.md
+│   │
 │   ├── SSH/
+│   │   ├── README.md
+│   │   ├── Commands.md
+│   │   ├── SCP.md
+│   │   └── SFTP.md
+│   │
 │   ├── SMTP/
+│   │   ├── README.md
+│   │   └── Commands.md
+│   │
 │   ├── POP3/
-│   └── IMAP/
+│   │   ├── README.md
+│   │   └── Commands.md
+│   │
+│   ├── IMAP/
+│   │   ├── README.md
+│   │   └── Commands.md
+│   │
+│   └── Telnet/
+│       ├── README.md
+│       └── Commands.md
 │
 └── Network-Services/
     ├── Routing/
     ├── NAT/
     ├── Traceroute/
     └── WHOIS/
-```
-
-## Contents
-
-- **Fundamentals** - Core networking concepts and addressing.
-- **OSI Model** - Seven-layer networking model.
-- **TCP/IP** - TCP/IP architecture, encapsulation, ports, TCP, UDP, and connection lifecycle.
-- **Network Protocols** - Common protocols used for communication across networks.
-- **Network Services** - Supporting technologies and utilities such as Routing, NAT, Traceroute, and WHOIS.
