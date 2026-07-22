@@ -39,22 +39,10 @@ Networking/
 │   │   ├── SCP.md
 │   │   └── SFTP.md
 │   │
-│   ├── SMTP/
-│   │   ├── README.md
-│   │   └── Commands.md
-│   │
-│   ├── POP3/
-│   │   ├── README.md
-│   │   └── Commands.md
-│   │
-│   ├── IMAP/
-│   │   ├── README.md
-│   │   └── Commands.md
-│   │
-│   └── Telnet/
+│   ├── Email-Protocols/
 │       ├── README.md
 │       └── Commands.md
-│
+│   
 └── Network-Services/
     ├── Routing/
     ├── NAT/
