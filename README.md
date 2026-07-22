@@ -40,7 +40,7 @@ Networking/
 │   │   └── SFTP.md
 │   │
 │   ├── Email-Protocols/
-│       ├── README.md
+│       ├── README.md            (SMTP + SMTPS + POP3 + POP3S + IMAP + IMAPS)
 │       └── Commands.md
 │   
 └── Network-Services/
